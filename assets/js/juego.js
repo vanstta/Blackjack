@@ -106,7 +106,7 @@ if (puntosComputadora === puntosMinimos) {
 }else {
     alert('Computadora gana')
 }
-}, 50)
+}, 100)
 }
 
 
